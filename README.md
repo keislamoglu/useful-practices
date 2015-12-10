@@ -6,7 +6,7 @@ Markdown to PDF:
 
 *//grip yükle*
 
-pip install grip
+`pip install grip`
 
 *//md dosyasını html'e çevir*
 
