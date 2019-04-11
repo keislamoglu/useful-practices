@@ -1,20 +1,20 @@
-# Pratik Çözümler
+# Practical Solutions
 
 Markdown to PDF:
 ----------------
 
-* grip yükle
+* install grip
 
 `pip install grip`
 
-* md dosyasını html'e çevir
+* convert md file into html
 
 `grip markdownfile.md --export markdownfile.html`
 
-* wkhtmltopdf yükle (OS X için)
+* install wkhtmltopdf (for OS X)
 
 `brew install Caskroom/cask/wkhtmltopdf`
 
-* html dosyasını pdf'e çevir
+* convert html file into pdf
 
 `wkhtmltopdf markdownfile.html markdownfile.pdf`
