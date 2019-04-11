@@ -1,4 +1,4 @@
-# Practical Solutions
+# Practices
 
 Markdown to PDF:
 ----------------
