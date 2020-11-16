@@ -1,4 +1,4 @@
-# Practices
+# Useful Practices
 
 Markdown to PDF:
 ----------------
